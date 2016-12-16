@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="AppThemeFirst" parent="android:Theme.Holo.Light" />
+
+</resources>
